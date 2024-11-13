@@ -1,0 +1,11 @@
+langchain
+transformers
+faiss-cpu
+flask
+nltk
+rouge
+matplotlib
+langchain-community
+rouge
+ctransformers
+sentence-transformers
